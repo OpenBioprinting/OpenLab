@@ -8,7 +8,7 @@ Adaptable to Prusa Hephestos 1 - BQ (https://www.bq.com/es/support/hephestos/sup
 
 
 
-BOM (Bill of materials):
+### BOM (Bill of materials):
 
   - x1 NEMA 17 step driver
   - x2 screws M3x50 mm
