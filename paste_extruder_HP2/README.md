@@ -17,12 +17,12 @@ Adaptable to Prusa Hephestos 1 - BQ (https://www.bq.com/es/support/hephestos/sup
   - x1 screw M3x30 mm
   - x2 screws M3x40 mm
   - x5 M3 nuts
-  - x1 M8x70mm chamfered screw
+  - x1 M8x60mm chamfered screw
   - x6 M8 washers
-  - x1 M8 self-tapping nut
+  - x1 M8 lock nut
   - x2 axial bearings 608
   - x1 piece of threaded rod or similar M4x20 mm (holds the axial bearing 624)
   - x1 axial bearing 624 bearing
-  - x5 printed pieces (base_support, small_gear, big_gear, plunge, spring_press)
+  - x5 printed pieces (base_support, small_gear, big_gear, adapted_internal_gear, plunge, spring_press)
 
 Assembly and more info at: openbioprinting.org
