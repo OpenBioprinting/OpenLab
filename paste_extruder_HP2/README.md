@@ -10,19 +10,38 @@ Adaptable to Prusa Hephestos 1 - BQ (https://www.bq.com/es/support/hephestos/sup
 
 ### BOM (Bill of materials):
 
-  - x1 NEMA 17 step driver
-  - x2 screws M3x50 mm
-  - x4 M3 washers
-  - x2 springs (ex .: https://orballoprinting.com/es/mecanica/39-muelle-extrusor.html)
-  - x1 screw M3x30 mm
-  - x2 screws M3x40 mm
-  - x5 M3 nuts
-  - x1 M8x60mm chamfered screw
-  - x6 M8 washers
-  - x1 M8 lock nut
-  - x2 axial bearings 608
-  - x1 piece of threaded rod or similar M4x20 mm (holds the axial bearing 624)
-  - x1 axial bearing 624 bearing
-  - x5 printed pieces (base_support, small_gear, big_gear, adapted_internal_gear, plunge, spring_press)
+  - 1 x NEMA 17 step driver
+  - 2 x M4xL70 mm threaded rod (DIN 975)
+  - 1 x M4xL20 mm threaded rod (DIN 975)
+
+  - 6 x M8 washer (DIN 125)
+  - 4 x M4 Large OD washer (oversize) (DIN 9021)
+
+  - 2 x M4 Wingnut (DIN 315)
+
+  - 1 x M8xL60 mm bolt (DIN 933) - MUST BE CHAMFERED/MECHANIZE!
+
+  - 1 x M3xL30 mm bolt (DIN 912)
+  - 2 x M3xL40 mm bolt (DIN 912)
+
+  - 3 x M3 nut (DIN 934)
+  - 2 x M4 nut (DIN 934)
+
+  - 1 x M3xL8 mm socket set screw (DIN 916)
+
+  - 1 x M8 Hex lock nut (DIN 985)
+
+  - 2 x Axial bearing 608zz (DIN 625)
+  - 1 x Axial bearing 624zz (DIN 625)
+
+  - 2 x springs 18x4mm (REF missing)
+
+  - 6 Printed parts:
+ 	  - adapted internal gear
+	  - base_support
+	  - spring_press
+	  - herringbone_large_gear
+	  - heringbone_small_gear
+	  - plunge
 
 Assembly and more info at: openbioprinting.org

@@ -2,6 +2,7 @@
 #  BILL OF MATERIALS  #
 #######################
 
+1 x NEMA 17 step driver (1.8 step angle)
 2 x M4xL70 mm threaded rod (DIN 975)
 1 x M4xL20 mm threaded rod (DIN 975)
 
